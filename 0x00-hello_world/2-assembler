@@ -1,7 +1,3 @@
 #!/bin/bash
-gcc -S $CFILE > ${CFILE::-2}”.s”
-
-
-
-
+gcc -S $CFILE
 

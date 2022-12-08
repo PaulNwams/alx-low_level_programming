@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -a $CFILE -o 2-assembler.s
+

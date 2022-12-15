@@ -4,7 +4,6 @@
  * print_line - prints a line
  * @n: variable
  *
- * Return: 0
  */
 
 void print_line(int n)
@@ -16,5 +15,5 @@ void print_line(int n)
 		_putchar('_');
 		a++;
 	}
-	_putchar('\n);
+	_putchar('\n');
 }

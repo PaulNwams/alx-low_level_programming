@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * flip_bits - counts the number of bits needed to be flipped to get from one number to anoth
+ * flip_bits - counts the number of bits
  * @n: the number
  * @m: the number to flip n to.
  * Return: the necessary number of bits to flip to get from n to m
